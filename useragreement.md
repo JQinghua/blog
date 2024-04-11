@@ -1,12 +1,12 @@
-# User Agreement for lokIok
+# User Agreement for HegaTV
 
 ### 1. Terima Terma
 
-Selamat datang ke LokIok ("Aplikasi ini"). Dengan mengakses dan menggunakan Aplikasi ini, anda bersetuju untuk mematuhi Perjanjian Pengguna berikut ("Perjanjian"). Jika anda tidak bersetuju dengan sebahagian atau keseluruhan terma dalam Perjanjian ini, sila jangan gunakan Aplikasi ini.
+Selamat datang ke HegaTV ("Aplikasi ini"). Dengan mengakses dan menggunakan Aplikasi ini, anda bersetuju untuk mematuhi Perjanjian Pengguna berikut ("Perjanjian"). Jika anda tidak bersetuju dengan sebahagian atau keseluruhan terma dalam Perjanjian ini, sila jangan gunakan Aplikasi ini.
 
 ### 2. Penerangan Servis
 
-LokIok adalah aplikasi yang menyediakan perkhidmatan tontonan drama termasuk tetapi tidak terhad kepada menonton video, memberi komen, berkongsi dan fungsi log masuk melalui emel.
+HegaTV adalah aplikasi yang menyediakan perkhidmatan tontonan drama termasuk tetapi tidak terhad kepada menonton video, memberi komen, berkongsi dan fungsi log masuk melalui emel.
 
 ### 3. Pendaftaran Pengguna
 Menggunakan beberapa fungsi Aplikasi ini mungkin memerlukan pendaftaran akaun dan pengesahan melalui emel. Pengguna harus menyediakan maklumat peribadi yang benar, tepat, terkini dan lengkap, dan mengemas kini maklumat tersebut secara berkala.

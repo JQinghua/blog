@@ -1,4 +1,4 @@
-# Dasar Privasi LokIok
+# Dasar Privasi HegaTV
 ### 1. Pengumpulan Maklumat
 Kami mungkin mengumpul maklumat peribadi termasuk tetapi tidak terhad kepada nama anda, alamat emel, maklumat peranti, rekod penggunaan, dan lain-lain.
 

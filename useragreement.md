@@ -1,36 +1,31 @@
-# User Agreement for HegaTV
+# User Agreement for Hl-TV
 
-### 1. Terima Terma
+### 1.Acceptance of Terms
+Welcome to Hl-TV ("the App"). By accessing and using this App, you agree to comply with the following User Agreement ("Agreement"). If you do not agree to any or all terms in this Agreement, please do not use this App.
 
-Selamat datang ke HegaTV ("Aplikasi ini"). Dengan mengakses dan menggunakan Aplikasi ini, anda bersetuju untuk mematuhi Perjanjian Pengguna berikut ("Perjanjian"). Jika anda tidak bersetuju dengan sebahagian atau keseluruhan terma dalam Perjanjian ini, sila jangan gunakan Aplikasi ini.
+### 2.Service Description
+HegaTV is an app that provides drama viewing services including but not limited to watching videos, commenting, sharing, and logging in via email.
 
-### 2. Penerangan Servis
+### 3.User Registration
+Using some features of this App may require account registration and verification through email. Users must provide accurate, current, and complete personal information, and update this information regularly.
 
-HegaTV adalah aplikasi yang menyediakan perkhidmatan tontonan drama termasuk tetapi tidak terhad kepada menonton video, memberi komen, berkongsi dan fungsi log masuk melalui emel.
+### 4.User Privacy
+We value your privacy. For detailed information on how your personal information is collected, used, and protected, please refer to our Privacy Policy.
 
-### 3. Pendaftaran Pengguna
-Menggunakan beberapa fungsi Aplikasi ini mungkin memerlukan pendaftaran akaun dan pengesahan melalui emel. Pengguna harus menyediakan maklumat peribadi yang benar, tepat, terkini dan lengkap, dan mengemas kini maklumat tersebut secara berkala.
+### 5.User Conduct
+Users are not permitted to use this App for illegal activities, infringing on others' rights, spreading harmful content, and other prohibited activities. We reserve the right to delete content that violates this Agreement and terminate user accounts without prior notice.
 
-## 4. Privasi Pengguna
-Kami menghargai privasi anda. Untuk maklumat terperinci tentang bagaimana maklumat peribadi anda dikumpul, digunakan dan dilindungi, sila rujuk Dasar Privasi kami.
+### 6.Intellectual Property Rights
+All content in this App, including but not limited to text, images, videos, software, and trademarks, is protected by copyright and other intellectual property laws.
 
-### 5. Tingkah Laku Pengguna
-Pengguna tidak dibenarkan menggunakan Aplikasi ini untuk aktiviti haram, melanggar hak orang lain, menyebarkan kandungan berbahaya, dan lain-lain. Kami berhak untuk memadam kandungan yang melanggar Perjanjian ini dan menghentikan akaun pengguna tanpa pemberitahuan terlebih dahulu.
+### 7.Disclaimer
+The App is not liable for any direct or indirect losses caused by the use or inability to use the services. While we strive to ensure the accuracy and completeness of the information, we do not guarantee the accuracy and completeness of the content.
 
-### 6. Hak Kekayaan Intelek
-Semua kandungan dalam Aplikasi ini, termasuk tetapi tidak terhad kepada teks, imej, video, perisian, dan tanda dagangan dilindungi oleh undang-undang hak cipta dan hak kekayaan intelek lain.
+### 8.Amendments and Termination
+We reserve the right to modify the terms of this Agreement and/or terminate the services at any time without notice. The amended agreement will take effect immediately once published on the App.
 
-### 7. Penafian
-Aplikasi ini tidak bertanggungjawab atas sebarang kerugian langsung atau tidak langsung yang disebabkan oleh penggunaan atau ketidakupayaan menggunakan perkhidmatan. Walaupun kami berusaha untuk memastikan ketepatan dan kelengkapan maklumat, kami tidak menjamin ketepatan dan kelengkapan kandungan tersebut.
+### 9.Governing Law
+This Agreement is subject to and interpreted according to local laws in your jurisdiction.
 
-### 8. Pengubahan dan Penamatan
-Kami berhak untuk mengubah terma Perjanjian ini dan/atau menamatkan perkhidmatan pada bila-bila masa tanpa pemberitahuan. Perjanjian yang diubah akan berkuat kuasa sebaik sahaja dipublish di Aplikasi ini.
-
-### 9. Undang-Undang yang Berkenaan
-Perjanjian ini tunduk kepada dan ditafsirkan mengikut undang-undang tempatan di wilayah anda.
-
-### 10. Hubungi Kami
-Jika anda mempunyai sebarang pertanyaan mengenai Dasar Privasi ini, sila hubungi kami melalui 13020163696@163.com.
-
-
-
+### 10.Contact Us
+If you have any questions about this Privacy Policy, please contact us at 13020163696@163.com.

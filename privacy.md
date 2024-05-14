@@ -1,21 +1,21 @@
-# Dasar Privasi HegaTV
-### 1. Pengumpulan Maklumat
-Kami mungkin mengumpul maklumat peribadi termasuk tetapi tidak terhad kepada nama anda, alamat emel, maklumat peranti, rekod penggunaan, dan lain-lain.
+# Hl-TV Privacy Policy
+### 1. Information Collection
+We may collect personal information including but not limited to your name, email address, device information, usage records, and more.
 
-### 2. Penggunaan Maklumat
-Kami menggunakan maklumat yang dikumpul untuk menyediakan dan memperbaiki perkhidmatan, pengalaman pengguna, komunikasi, sokongan dan sebagainya.
+### 2. Use of Information
+We use the information collected to provide and improve services, enhance user experience, communication, support, and more.
 
-### 3. Perkongsian Maklumat
-Kami tidak akan berkongsi maklumat peribadi anda dengan pihak ketiga tanpa persetujuan anda, kecuali jika diperlukan oleh undang-undang atau untuk melindungi hak, harta benda atau keselamatan Aplikasi ini dan orang lain.
+### 3. Information Sharing
+We will not share your personal information with third parties without your consent, except as required by law or to protect the rights, property, or safety of this App and others.
 
-### 4. Keselamatan
-Kami mengambil langkah-langkah keselamatan yang sesuai untuk melindungi maklumat anda daripada diakses, diubah, didedahkan atau dimusnahkan tanpa kebenaran.
+### 4. Security
+We take appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction.
 
-### 5. Perlindungan untuk Kanak-Kanak
-Kami tidak sengaja mengumpul maklumat daripada individu di bawah umur 18 tahun. Jika kami mendapati maklumat peribadi kanak-kanak telah dikumpul, kami akan mengambil langkah untuk memadamkan maklumat tersebut.
+### 5. Child Protection
+We do not knowingly collect information from individuals under the age of 18. If we discover that a child's personal information has been collected, we will take steps to delete that information.
 
-### 6. Kemaskini
-Dasar Privasi ini boleh dikemaskini dari masa ke masa. Kami menyarankan anda untuk semak dasar ini secara berkala untuk mengetahui bagaimana kami melindungi maklumat anda.
+### 6. Updates
+This Privacy Policy may be updated from time to time. We encourage you to periodically review this policy to understand how we protect your information.
 
-### 7. Hubungi Kami
-Jika anda mempunyai sebarang pertanyaan mengenai Dasar Privasi ini, sila hubungi kami melalui 13020163696@163.com
+### 7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at 13020163696@163.com.
